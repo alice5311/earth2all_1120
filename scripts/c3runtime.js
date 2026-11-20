@@ -1535,6 +1535,7 @@ self.C3_ExpressionFuncs = [
 		() => "https://www.youtube.com/watch?v=N-sBtq0Qky4&list=PLfru1T03uoRU&index=5",
 		() => 23,
 		() => "https://youtu.be/Kp10y3JZ_Hs?si=KdFL--7p3rPUum7Q",
+		() => "NewWindow",
 		() => 26,
 		() => 12,
 		() => 24,

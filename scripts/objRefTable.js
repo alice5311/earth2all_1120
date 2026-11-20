@@ -67,6 +67,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Sprite.Cnds.IsBoolInstanceVarSet,
 		C3.Behaviors.Platform.Acts.SetEnabled,
 		C3.Behaviors.Bullet.Acts.SetAngleOfMotion,
+		C3.Plugins.Browser.Acts.GoToURLWindow,
 		C3.Behaviors.DragnDrop.Cnds.OnDrop,
 		C3.Plugins.Sprite.Cnds.IsOverlapping,
 		C3.Behaviors.Pin.Acts.PinByProperties,
